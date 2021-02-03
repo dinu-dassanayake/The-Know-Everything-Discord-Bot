@@ -46,4 +46,4 @@ async def _8ball(ctx, *, question):
                  'My sources say no.',
                  'Very doubtful.']
     await ctx.send(f'Question: {question}\nAnswer: {random.choice(responses)}')
-client.run('ODAxOTcwODE2MDc3OTIyMzI0.YAobhg.UsXNaK6NnIfZxj94pmhYzOqHlY8')
+client.run('-------------------')
